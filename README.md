@@ -1,7 +1,7 @@
 - 👋 Howdy, I’m @denismcdonald
 - 👀 I’m interested in public libraries and tawny frogmouths
 - 🌱 I’m currently learning graphic design and JavaScript
-- 💞️ I’d like to collaborate to build a penpalling website 
+- 💞️ I’d like to collaborate to build a penpalling website at penpals.ink
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/denismcdonald/)
 
 <!---
